@@ -5,8 +5,8 @@ import sys
 import pyperclip
 
 PASSWORDS = {'email': 'F879asdjasadi87safA',
-			 'blog': 'Vkajsd8u2h76asdhlajd',
-			 'luggage': '87232'}
+	     'blog': 'Vkajsd8u2h76asdhlajd',
+	     'luggage': '87232'}
 
 if len(sys.argv) < 2:
 	print('Usage: python pw.y [account] - copy account password' )
